@@ -1,4 +1,4 @@
-### Projeto realizado durante uma semana, disponibilizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> :rocket:
+### Projeto realizado durante uma semana disponibilizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> :rocket:
 
 #### O objetivo é conectar alunos e professores 🤝
 
